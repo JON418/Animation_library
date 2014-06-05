@@ -1,13 +1,13 @@
 Animation_library
 =================
 
-Instructions pour utiliser la librairie d'animations CSS "animation_lib_JON_MARTIN.css"
+**Instructions pour utiliser la librairie d'animations CSS "animation_lib_JON_MARTIN.css"**
 
 
 ----------------------------------------------------------
 
 
-Il y a 5 animations en tout:
+###IL Y A 5 ANIMATIONS EN TOUT:
 
 	.jumpAway
 	.inYourFace
@@ -19,7 +19,7 @@ Il y a 5 animations en tout:
 ----------------------------------------------------------
 
 
-POUR LES UTILISER DANS VOTRE PAGE WEB:
+###POUR LES UTILISER DANS VOTRE PAGE WEB:
  
 vous devez d'abord lier la feuille de style "animation_lib_JON_MARTIN.css" 
 dans le header de votre page HTML.
@@ -53,9 +53,9 @@ Votre div sera ainsi animé!
 ----------------------------------------------------------
 
 
-POUR MODIFIER LES PARAMÈTRES D'UNE ANIMATION:
+###POUR MODIFIER LES PARAMÈTRES D'UNE ANIMATION:
 
-/* Les informations suivantes sont aussi dans le fichier css */
+*Les informations suivantes sont aussi dans le fichier css "animation_lib_JON_MARTIN.css"*
 
 Si vous souhaitez modifier des paramètres d'une animation 
 (comme la durée, le délai, le nombre de répétitions, etc.), 
@@ -101,10 +101,9 @@ Vous pourrez ensuite ajuster les paramètres au goût.
 ```
 
 
-/*- Cela ne peut fonctionner que si vous placez les modifications dans un id,
-    car le id est plus fort que la classe. -*/
+- *Cela ne peut fonctionner que si vous placez les modifications dans un id, car le id est plus fort que la classe.*
 
-/*- N'incluez seulement que les paramètres que vous voulez modifier. -*/
+- *N'incluez seulement que les paramètres que vous voulez modifier.*
 
-/*- N'oubliez pas d'indiquez les préfixes des browsers (-webkit-, -moz-, etc.) */
+- *N'oubliez pas d'indiquez les préfixes des browsers (-webkit-, -moz-, etc.)*
 
