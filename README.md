@@ -37,7 +37,7 @@ Ex:
 
 
 Vous pouvez ensuite ajoutez la classe de l'animation souhaitée 
-(telle que nommée plus haut) à l'élément que vous souhaitez animer.
+(telle que nommée plus haut) à l'élément que vous souhaitez animer. **Il est préférable d'utiliser les animations sur des balises de type "block" et non sur des balises de texte.**
 
 Ex:
 ```html
