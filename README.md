@@ -25,11 +25,11 @@ vous devez d'abord lier la feuille de style "animation_lib_JON_MARTIN.css"
 dans le header de votre page HTML.
 
 Ex:
-	```html
+```html
 	<head>
   	  <link rel="stylesheet" type="text/css" href="animation_lib_JON_MARTIN.css">
 	</head>
-	```
+```
 
 
 ----------------------------------------------------------
@@ -40,12 +40,12 @@ Vous pouvez ensuite ajoutez la classe de l'animation souhaitée
 (telle que nommée plus haut) à l'élément que vous souhaitez animer.
 
 Ex:
-	```html
+```html
 	<body>
 	  <div class="jumpAway">
 	  </div>
 	</body>
-	```
+```
 
 Votre div sera ainsi animé!
 
