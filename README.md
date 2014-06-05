@@ -25,9 +25,11 @@ vous devez d'abord lier la feuille de style "animation_lib_JON_MARTIN.css"
 dans le header de votre page HTML.
 
 Ex:
+	```html
 	<head>
   	  <link rel="stylesheet" type="text/css" href="animation_lib_JON_MARTIN.css">
 	</head>
+	```
 
 
 ----------------------------------------------------------
@@ -38,10 +40,12 @@ Vous pouvez ensuite ajoutez la classe de l'animation souhaitée
 (telle que nommée plus haut) à l'élément que vous souhaitez animer.
 
 Ex:
+	```html
 	<body>
 	  <div class="jumpAway">
 	  </div>
 	</body>
+	```
 
 Votre div sera ainsi animé!
 
@@ -61,6 +65,7 @@ dans votre feuille de style CSS dans le id de l'élément que vous souhaitez ani
 Vous pourrez ensuite ajuster les paramètres au goût.
 
 
+```css
 #idOfYourElement{
 
 	-webkit-animation-duration: 1s;		/* Xs or Xms */
@@ -93,6 +98,7 @@ Vous pourrez ensuite ajuster les paramètres au goût.
 	animation-fill-mode: both;
 	animation-direction: normal;
 }
+```
 
 
 /*- Cela ne peut fonctionner que si vous placez les modifications dans un id,
